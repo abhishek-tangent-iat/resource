@@ -5,7 +5,7 @@
    ### <ins>Explanation:</ins> Microservices is an architectural style that structures an application as a collection of small, loosely coupled services. Each service is independently deployable and scalable.
    ### Relevance to Java: Java has been widely used in building microservices, and frameworks like Spring Boot provide excellent support for creating microservices-based applications.
 
-   ## **Cloud Computing:**
+   ## *Cloud Computing:*
    ### Explanation: Cloud computing enables the delivery of computing services (e.g., storage, processing power) over the internet. It includes Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
    ### Relevance to Java: Java applications can be deployed on cloud platforms, and technologies like Docker and Kubernetes facilitate containerization and orchestration, enhancing scalability and maintainability.
 
