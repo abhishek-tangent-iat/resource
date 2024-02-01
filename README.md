@@ -2,7 +2,7 @@
 
    ## Microservices Architecture:
    
-   ### Explanation:
+   ### <ins>Explanation:</ins>
    ### Microservices is an architectural style that structures an application as a collection of small, loosely coupled services. Each service is independently deployable and scalable.
    ### Relevance to Java: Java has been widely used in building microservices, and frameworks like Spring Boot provide excellent support for creating microservices-based applications.
 
