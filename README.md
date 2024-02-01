@@ -8,7 +8,7 @@
 
    ## Cloud Computing:
    ### Explanation: Cloud computing enables the delivery of computing services (e.g., storage, processing power) over the internet. It includes Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
-        ### Relevance to Java: Java applications can be deployed on cloud platforms, and technologies like Docker and Kubernetes facilitate containerization and orchestration, enhancing scalability and maintainability.
+   #### Relevance to Java: Java applications can be deployed on cloud platforms, and technologies like Docker and Kubernetes facilitate containerization and orchestration, enhancing scalability and maintainability.
 
    ## Serverless Computing:
    ### Explanation: Serverless computing allows developers to run code without provisioning or managing servers. It automatically scales based on demand and charges only for the actual compute resources used.
