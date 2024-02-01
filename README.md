@@ -31,7 +31,7 @@
    ### Relevance to Java: Tools like Jenkins, GitLab CI, and Azure DevOps support CI/CD for Java applications, enabling faster and more reliable releases.
 
    ## Edge Computing:
-   ###Explanation: Edge computing involves processing data closer to the source of data generation, reducing latency and improving real-time processing capabilities.
+   ### Explanation: Edge computing involves processing data closer to the source of data generation, reducing latency and improving real-time processing capabilities.
    ### Relevance to Java: Java applications can be optimized for edge computing scenarios, especially in IoT (Internet of Things) environments.
 
 ### As a senior Java developer, embracing and mastering these cutting-edge technologies can enhance your ability to design, develop, and maintain modern and scalable software solutions. It's important to continuously learn, experiment, and adapt to the evolving landscape of IT to remain at the forefront of technology.
